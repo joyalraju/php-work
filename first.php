@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-  color: grey;
+  color: black;
   text-align: center;
 }
 </style>
