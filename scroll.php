@@ -21,7 +21,7 @@ font-size:70px;
 <style>
 h2 {
 font-family:fantasy;
-font-size:40px;
+font-size:500px;
 font-style:italic;
 position:bottom;
 }
