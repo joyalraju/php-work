@@ -12,7 +12,7 @@ background-size:cover;
 h1 {
   color: red;
   text-align: center;
-font-size:60px;
+font-size:70px;
 }
 </style>
 </head>
